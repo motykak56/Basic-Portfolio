@@ -1,0 +1,43 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: white;
+    text-align: left;
+    font-size: 45px
+  }
+   h2 {
+       color:  teal;
+       text-align: left;
+       font-size: 35px;
+   }
+
+   h3 {
+       color:  black;
+       text-align: anchor-box;
+       font-size:  25px;
+   }
+  
+   h4 {
+       color: black;
+       text-align: right;
+       font-size:  20px;
+       font-style:  bold;
+   }
+  p {
+    font-family: verdana;
+    font-size: 20px;
+
+}
+.mainbox{
+    width:70%;
+    height:  70%;
+    margin-bottom: 0auto;
+    border: 5px solid gray;
+    background-image: inherit
+}
+.boxes{
+    background:  teal
+    position: relative
+}
